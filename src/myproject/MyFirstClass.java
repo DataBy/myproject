@@ -8,6 +8,7 @@ public class MyFirstClass {
 		System.out.println("version65");
 		System.out.println("version6575");
 		System.out.println("version65755");
+		System.out.println("version6");
 	}
 
 }
