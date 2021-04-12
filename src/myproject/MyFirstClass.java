@@ -11,9 +11,9 @@ public class MyFirstClass {
 		System.out.println("version6");
 		System.out.println("version494e");
 		System.out.println("arif branch dee ");
-		System.out.println("arif branch yniee");
-		System.out.println("ari branch dee ");
-		System.out.println("arf branch yniee");
+		System.out.println("arif branchniee");
+		System.out.println("ari branch  ");
+		System.out.println("arf branch e");
 	}
 
 }
