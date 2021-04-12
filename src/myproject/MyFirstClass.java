@@ -14,6 +14,7 @@ public class MyFirstClass {
 		System.out.println("arif branch yniee");
 		System.out.println("ari branch dee ");
 		System.out.println("arf branch yniee");
+		System.out.println("dogrusu bu");
 	}
 
 }
